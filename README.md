@@ -1,2 +1,2 @@
 # freeCodeCamp-WorldCup
-FreeCodeCamp World Cup Repo
+FreeCodeCamp Challenge 2: World Cup Repository
